@@ -7,16 +7,6 @@ A simple demo chat app built on [Node.js](https://nodejs.org/), [Express.js](htt
 To setup and run the project for local development / testing, you will need to use Node.js and NPM. I don't explicitly specify a minimum Node.js/NPM version for the app but I recommend going with whatever the latest LTS version is at the point in time you are setting things up. 
 Installers can be found here: [https://nodejs.org/en/download](https://nodejs.org/en/download/)
 
-## Installation
-
-The code for the chat app can be found at the public [GitHub](https://github.com/) repo [https://github.com/owanhunte/nodejs-chat-app](https://github.com/owanhunte/nodejs-chat-app). Either clone the repo to a local folder on your machine or download and extract the archive if you don't have [Git](https://git-scm.com/) installed.
-
-Open a terminal window session, or the equivalent on your machine, and enter the following command to install all the Node modules needed to run the app:
-
-```sh
-npm install
-```
-
 ## Run the app in development mode
 
 After doing an `npm install` enter the following `npm run` command:
